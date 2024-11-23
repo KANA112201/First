@@ -9,6 +9,7 @@ body {
 .main {
   display: flex;
   height: 100vh;
+  /* width */
 }
 .sidebar {
   background-color: black;
